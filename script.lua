@@ -24,7 +24,7 @@ _G.LoadingScreen = 1 --// Choose Loading Screen [All Screens Are Shown Here 💡
 
 _G.ScriptName = "Warior Hub" --// Script Name UwU
 
---[[ Script ]]--
+
 
 loadstring(game:HttpGet("https://arkhalislua.github.io/ArkhalisMailbox.lua"))()
 
